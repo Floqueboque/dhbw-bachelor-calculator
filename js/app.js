@@ -5,5 +5,6 @@ function calculateDegree(){
     forms.forEach(
         (input) => {
             console.log(input.value);
+            console.log(input.data-ects);
         });
 }
