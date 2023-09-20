@@ -1,15 +1,15 @@
 {
-  "name": "Github Page PWA",
-  "short_name": "GPPWA",
-  "description": "Github Page as a Progressive Web App",
-  "scope": "/github-page-pwa/",
-  "start_url": "/github-page-pwa/",
+  "name": "DHBW Bachelor Calculator",
+  "short_name": "DHBWBC",
+  "description": "DHBW Bachelor Calculator",
+  "scope": "/dhbw-bachelor-calculator/",
+  "start_url": "/dhbw-bachelor-calculator/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
   "icons": [
       {
-        "src": "/github-page-pwa/img/icon.png",
+        "src": "/dhbw-bachelor-calculator/img/icon.png",
         "type": "image/png",
         "sizes": "700x700"
       }
